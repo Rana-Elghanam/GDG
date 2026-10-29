@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: bisque;
+}
+.header{
+    text-align: center;
+    padding: 20px;
+}
+.header h1{
+    margin: 5px;
+}
+.container{
+    /* padding: 10px; */
+    text-align: center;
+}
+.card{
+    width: 24%;
+    border: 2px solid black;
+    display: inline-block;
+    
+
+}
+.card img{
+    width: 100%;
+}
+/* .content{
+    
+} */
+.card .content{
+    padding: 10px;
+    text-align: center;
+    /* background-color: blue; */
+}
+.content p{
+    padding:10px;
+}
+.content button{
+    background-color: brown;
+    color: wheat;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+}
